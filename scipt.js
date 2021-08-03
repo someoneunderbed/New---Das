@@ -25,6 +25,5 @@ btn.addEventListener("click", () => {
     alert("You need to type Password!");
   }
 
-  //   email2.innerHTML = event.value;
-  //   pass.innerHTML = password.value;
+  console.log(person);
 });
